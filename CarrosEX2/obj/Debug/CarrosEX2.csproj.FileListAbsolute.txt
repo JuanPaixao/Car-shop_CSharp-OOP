@@ -1,0 +1,7 @@
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\bin\Debug\CarrosEX2.exe.config
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\bin\Debug\CarrosEX2.exe
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\bin\Debug\CarrosEX2.pdb
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\obj\Debug\CarrosEX2.csprojAssemblyReference.cache
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\obj\Debug\CarrosEX2.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\obj\Debug\CarrosEX2.exe
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\CarrosEX2\CarrosEX2\obj\Debug\CarrosEX2.pdb
