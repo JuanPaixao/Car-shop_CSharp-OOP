@@ -20,7 +20,6 @@ namespace CarrosEX2
             Marca m1 = new Marca(1001, "Volkswagen", "Alemanha");
             Marca m2 = new Marca(1002, "General Motors", "Estados Unidos");
 
-
             Carro c1 = new Carro(101, "Fusca", 1980, 5000.00, m1);
             m1.addCarro(c1);
             Carro c2 = new Carro(102, "Golf", 2016, 60000.00, m1);
@@ -35,7 +34,6 @@ namespace CarrosEX2
             m2.addCarro(c5);
             Carro c7 = new Carro(107, "Cobalt", 2017, 35000.00, m2);
             m2.addCarro(c6);
-
 
             marca.Add(m1);
             marca.Add(m2);
